@@ -1,2 +1,2 @@
-# challengeoneconversorlatam5
-Conversor de divisas
+Conversor de Divisas con API
+Autor: Jorge Alejandro Casas Espino
